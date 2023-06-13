@@ -1,0 +1,44 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "familyName": "Smith",
+      "experience": 5,
+      "age": 30,
+      "address": "123 Main St, NY, 1000",
+      "id": 1
+    },
+    {
+      "name": "Anna ",
+      "familyName": "Vanna",
+      "experience": 3,
+      "age": 23,
+      "address": "3 St, NY, 10900",
+      "id": 2
+    },
+    {
+      "name": "Maikl",
+      "familyName": "Smooth",
+      "experience": 6,
+      "age": 33,
+      "address": "5 Avenu, Boston, 340",
+      "id": 3
+    },
+    {
+      "name": "Tomas",
+      "familyName": "Dvorak",
+      "experience": 6,
+      "age": 33,
+      "address": "5 Avenu, Boston, 340",
+      "id": 4
+    },
+    {
+      "name": "Villy",
+      "familyName": "Wonka",
+      "experience": 8,
+      "age": 40,
+      "address": "4 Avenu, Chikago, 20",
+      "id": 5
+    }
+  ]
+}
